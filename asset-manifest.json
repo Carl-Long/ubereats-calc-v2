@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ubereats-calc-v2/static/css/main.f1f2351c.css",
-    "main.js": "/ubereats-calc-v2/static/js/main.ab65c854.js",
+    "main.css": "/ubereats-calc-v2/static/css/main.43bfc48a.css",
+    "main.js": "/ubereats-calc-v2/static/js/main.e79c56da.js",
     "static/js/787.bf8e0a70.chunk.js": "/ubereats-calc-v2/static/js/787.bf8e0a70.chunk.js",
     "index.html": "/ubereats-calc-v2/index.html",
-    "main.f1f2351c.css.map": "/ubereats-calc-v2/static/css/main.f1f2351c.css.map",
-    "main.ab65c854.js.map": "/ubereats-calc-v2/static/js/main.ab65c854.js.map",
+    "main.43bfc48a.css.map": "/ubereats-calc-v2/static/css/main.43bfc48a.css.map",
+    "main.e79c56da.js.map": "/ubereats-calc-v2/static/js/main.e79c56da.js.map",
     "787.bf8e0a70.chunk.js.map": "/ubereats-calc-v2/static/js/787.bf8e0a70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1f2351c.css",
-    "static/js/main.ab65c854.js"
+    "static/css/main.43bfc48a.css",
+    "static/js/main.e79c56da.js"
   ]
 }
